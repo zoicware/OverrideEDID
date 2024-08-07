@@ -10,5 +10,12 @@ When opening some apps Ex. Discord a call to the monitors driver is made to read
 
 
 
+https://github.com/user-attachments/assets/fae18eed-2c07-4d11-b2c6-0033975266c8
+
+
 
 ## After Fix
+
+https://github.com/user-attachments/assets/8e8fa005-febc-49c2-8819-640639f56535
+
+
